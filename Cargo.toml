@@ -13,13 +13,13 @@ license = "Apache-1.0"
 name = "isolang"
 readme = "README.md"
 repository = "https://github.com/humenda/isolang-rs"
-version = "1.0.0"
+version = "1.0.1"
 
 [build-dependencies]
-phf_codegen = "0.7.24"
+phf_codegen = "0.8.0"
 
 [dependencies]
-phf = "0.7.24"
+phf = "0.8.0"
 
 [dependencies.serde]
 optional = true
